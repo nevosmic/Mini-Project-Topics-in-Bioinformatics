@@ -2,8 +2,9 @@
 
 **Project Objective**: Identify distinguishing patterns between two classes of bacteria
 
-*In this project we examined related Problem in Data Mining that is more general than genomics: Distinguishing Frequent Itemset Mining
-We translated and changed this general problem so that it would serve our purpose.*
+*In this project we examined related Problem in Data Mining that is more general than genomics: Distinguishing Frequent Itemset Mining.*
+
+*We translated and changed this general problem so that it would serve our purpose.*
 
 ### Project goals:
 
