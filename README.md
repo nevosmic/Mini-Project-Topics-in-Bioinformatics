@@ -45,7 +45,7 @@ recommended to look into a previous paper by the authors:
 Cheng, Hong, et al. "Discriminative frequent pattern analysis for effective classification." 2007
 IEEE 23rd international conference on data engineering. IEEE, 2007.
 
-### our idea:
+### Our idea:
 The two habitats we chose to explore are marine and animal.
 in this part we decided to filter the data in order to speed up the search and obtain more meaningful results. 
 We sorted the data by certain enzymes, we decided to focus on lipid transport and metabolism. we analyzed the transactions that contain cogs that relate to lipid transport and metabolism and ignored the cogs that are note related to the lipid transport and metabolism process. 
