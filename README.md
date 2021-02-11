@@ -31,8 +31,6 @@ to either further speed up the search or improve the biological model or both.**
 (1) Chapter 12 in the machine learning book, the FP-tree data structure and the FP-growth
 algorithm for mining frequent itemsets.
 
-
-![pictures](http://www.github.com/nevosmic/mini_project/pictures)
 ![pictures](https://images-na.ssl-images-amazon.com/images/I/41VTWhdpIlL._SX397_BO1,204,203,200_.jpg)
 
 (2) The main paper to implement:
