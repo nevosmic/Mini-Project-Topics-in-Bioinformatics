@@ -2,7 +2,7 @@
 
 **Project Objective**: Identify distinguishing patterns between two classes of bacteria
 
-###Project goals:
+### Project goals:
 
 **Data-mining goal**: Given a set of bacterial genomes, “spelled” by genes (COGs) and annotated with binary
 labels (e.g. pathogenic or non-pathogenic), identify genomic patterns (sets of COGs) that distinguish between
