@@ -58,7 +58,7 @@ In conclusion, it can be seen that the algorithm of our final step is faster and
 ### our final report is attached 
 
 **Credits**:
-This project was done with my class mate Adi Nechemia.
+This project was done with my classmate Adi Nechemia.
 
 
 
