@@ -1,0 +1,1 @@
+itemset: {'0024'}, IG: 0.09140461399663236, Num genomes contain : 200, Animal : 116, Marine : 84

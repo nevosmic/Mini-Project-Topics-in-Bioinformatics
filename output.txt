@@ -1,0 +1,10 @@
+itemset: ['0236', '0304', '0331', '1022', '1028', '0020'], IG: 0.18628387523856182, Num genomes contain : 108, Animal : 29, Marine : 79
+itemset: ['0304', '0331', '1022', '1028', '0020'], IG: 0.18628387523856182, Num genomes contain : 108, Animal : 29, Marine : 79
+itemset: ['0236', '0304', '0331', '1022', '0020'], IG: 0.18628387523856182, Num genomes contain : 108, Animal : 29, Marine : 79
+itemset: ['0331', '1022', '0304', '0020'], IG: 0.18628387523856182, Num genomes contain : 108, Animal : 29, Marine : 79
+itemset: ['0236', '0304', '0331', '1022', '1028'], IG: 0.18628387523856182, Num genomes contain : 108, Animal : 29, Marine : 79
+itemset: ['0331', '1022', '1028', '0304'], IG: 0.18628387523856182, Num genomes contain : 108, Animal : 29, Marine : 79
+itemset: ['0236', '0331', '1022', '0304'], IG: 0.18628387523856182, Num genomes contain : 108, Animal : 29, Marine : 79
+itemset: ['0331', '1022', '0304'], IG: 0.18628387523856182, Num genomes contain : 108, Animal : 29, Marine : 79
+itemset: ['0020', '0236', '0304', '0331', '1022', '1028', '0318'], IG: 0.17834063521268717, Num genomes contain : 103, Animal : 27, Marine : 76
+itemset: ['0020', '0304', '0331', '1022', '1028', '0318'], IG: 0.17834063521268717, Num genomes contain : 103, Animal : 27, Marine : 76
